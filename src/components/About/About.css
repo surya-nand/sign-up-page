@@ -1,0 +1,40 @@
+.text{
+    width: 50%;
+    color: white;
+    padding-top: 35vh;
+    box-sizing: border-box;
+    margin-left: 3%;
+}
+
+.text h1{
+    font-family: Roboto;
+    Font-style: Black;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 35px;
+    line-height: 99%;
+    align-items: Left;
+    Vertical-align: Top;
+    Letter-spacing: 2.5%;
+    fill: Solid #ffff;
+    padding-bottom: 20px;
+}
+
+.text p{
+    font-family: Roboto;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 13px;
+    line-height: 99%;
+    align-items: Left;
+    Vertical-align: Top;
+    letter-spacing: 1.8%;
+    fill: Solid #FFFFFF;
+    margin-top : 10px;
+}
+
+.text  br{
+    display:block;
+    margin: 5px 0;
+    content: "";
+}
